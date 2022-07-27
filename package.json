@@ -1,0 +1,11 @@
+{
+  "name": "ApiCar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinibenso/ApiCar.git",
+  "author": "vinibenso <vinibenso@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
